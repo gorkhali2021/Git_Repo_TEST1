@@ -2,7 +2,6 @@
 
 *Factory reset the router*...
 
-`Request platform change`
-
+`Request platform change`   
 `push the change`   
 `change is next`   
