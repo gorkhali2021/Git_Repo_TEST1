@@ -4,6 +4,5 @@
 
 `Request platform change`
 
-`push the change`
-
+`push the change`..
 `change is next`
